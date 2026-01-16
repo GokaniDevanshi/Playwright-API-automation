@@ -16,6 +16,7 @@ This framework follows enterprise-grade automation principles:
 -Extensible for UI + API hybrid testing
 
 🧑‍💻 Set-up
+
 #Install Dependencies
 pip install -r requirements.txt
 
